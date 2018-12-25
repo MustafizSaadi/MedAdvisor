@@ -56,10 +56,9 @@ public class EnterSymptoms extends AppCompatActivity {
                 finish();
             }
         });
-        text1=findViewById(R.id.message_showing);
         //text1.setText("No Symptoms Added");
         listView = findViewById(R.id.myTextView) ;
-        listView.setEmptyView(findViewById(R.id.empty));
+       // listView.setEmptyView(findViewById(R.id.empty));
 
 
         Bundle bundle = getIntent().getExtras();
