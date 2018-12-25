@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MedAdvisor</string>
+    <string-array name="symptoms_list">
+        <item>Fever</item>
+        <item>Headache</item>
+        <item>Muscle_Cramp</item>
+        <item>Nausea</item>
+        <item>Vomiting</item>
+        <item>Enlarge_lymph_node</item>
+        <item>Irritation</item>
+        <item>Cough</item>
+    </string-array>
+    <string-array name="fever_clarity">
+        <item>Few Hours</item>
+        <item>Few Days</item>
+        <item>Few Weeks</item>
+        <item>Few Months</item>
+        <item>More than 3 months</item>
+    </string-array>
+    <string name="button_name">Add Symptoms</string>
+</resources>
